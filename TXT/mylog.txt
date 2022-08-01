@@ -1,1 +1,4 @@
-# TBA
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 L03 GitHub and git related, including commit, push, pull
