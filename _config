@@ -1,0 +1,11 @@
+version:     "0001--15-Aug-2022"
+copyright:   "2022"
+author:      "C. BinKadal"
+title:       "OS222: Operating Systems 2022-1"
+githublink:  "https://github.com/cbkadal/os222/"
+myloglink:   "/TXT/mylog.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
